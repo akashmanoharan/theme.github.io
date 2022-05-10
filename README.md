@@ -1,5 +1,4 @@
 ---
-published: false
 
 ---
 ## Welcome to Charity-Infinity page!!
