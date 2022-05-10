@@ -1,3 +1,2 @@
 source "https://rubygems.org"
-
-gem 'jekyll-theme-modernist', '~> 0.2.0'
+gem "jekyll-text-theme"
